@@ -10,13 +10,16 @@ HEX Codes - https://gist.github.com/dretax/fe37b8baf55bc30e9d63
 pynput- https://pypi.org/project/pynput/
 
 ------------What Exactly are we doing---------------
+
 1) We will be creating a python code that will simulate the keyboard press.
 2) We will create a communication code for android to communicate with the python and the game.
 3) We will create an android app
 
----------------- Let's get connected---------------------
+# Let's get connected
+
 Instagram - futureautomate
 Facebook - future automation
+
 ---------------------------------------------------------------------
 
 If you like the video don't forget to hit the thumbs up and also share. If you are new to the channel, please subscribe.
